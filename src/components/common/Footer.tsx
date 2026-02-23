@@ -65,7 +65,7 @@ export default function Footer({ lang }: FooterProps) {
           <div className="space-y-5">
             <Link href={localizeHref('/')} className="inline-block">
               <Image
-                src="/images/common/logo.png"
+                src="/images/common/Logo.png"
                 alt="Language House"
                 width={140}
                 height={56}
