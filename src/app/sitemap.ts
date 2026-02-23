@@ -1,5 +1,3 @@
-export const runtime = 'edge';
-
 import type { MetadataRoute } from 'next';
 
 const BASE_URL = 'https://www.languagehouse.jp';

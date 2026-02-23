@@ -9,14 +9,14 @@ const content = {
   ja: {
     heading: '流暢さがゴールではない。\n本当に伝わる英語を',
     cta: '詳細を見る',
-    ctaHref: '/academic',
+    ctaHref: '/programs',
     contact: 'お問い合わせ',
     contactHref: '/contact-us',
   },
   en: {
     heading: 'Fluency is not the goal.\nEnglish that truly connects.',
     cta: 'Learn More',
-    ctaHref: '/academic',
+    ctaHref: '/programs',
     contact: 'Contact Us',
     contactHref: '/contact-us',
   },

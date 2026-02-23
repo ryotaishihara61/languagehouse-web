@@ -1,5 +1,3 @@
-export const runtime = 'edge';
-
 import Image from 'next/image';
 import type { Metadata } from 'next';
 import type { Locale } from '@/i18n-config';

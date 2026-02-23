@@ -1,5 +1,3 @@
-export const runtime = 'edge';
-
 import type { Metadata } from 'next';
 import type { Locale } from '@/i18n-config';
 import Hero from '@/components/sections/Hero';
