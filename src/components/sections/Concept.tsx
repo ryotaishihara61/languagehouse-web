@@ -16,7 +16,7 @@ const content = {
     ctaHref: '/about',
     stat1: { value: '288', label: '導入社数', suffix: '社' },
     stat2: { value: '415,774', label: '累計受講者数', suffix: '人' },
-    stat3: { value: '48', label: '創業', suffix: '年' },
+    stat3: { value: '50', label: '創業', suffix: '年' },
   },
   en: {
     label: 'History',
@@ -26,7 +26,7 @@ const content = {
     ctaHref: '/about',
     stat1: { value: '288', label: 'Companies Served', suffix: '' },
     stat2: { value: '415,774', label: 'Total Participants', suffix: '' },
-    stat3: { value: '48', label: 'Years Since Founding', suffix: '' },
+    stat3: { value: '50', label: 'Years Since Founding', suffix: '' },
   },
 } as const;
 
