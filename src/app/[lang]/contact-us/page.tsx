@@ -2,6 +2,9 @@ import Image from 'next/image';
 import type { Metadata } from 'next';
 import type { Locale } from '@/i18n-config';
 
+export const runtime = 'edge';
+export const dynamicParams = false;
+
 export async function generateMetadata({
   params,
 }: {

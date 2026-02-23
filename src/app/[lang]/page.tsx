@@ -5,6 +5,9 @@ import Concept from '@/components/sections/Concept';
 import LanguageServices from '@/components/sections/LanguageServices';
 import Features from '@/components/sections/Features';
 
+export const runtime = 'edge';
+export const dynamicParams = false;
+
 export async function generateMetadata({
   params,
 }: {
