@@ -13,21 +13,21 @@ interface Program {
 }
 
 const programs: Program[] = [
-  { name: 'ビジネス英語プログラム', image: '/images/sections/hero/AdobeStock_306467549.jpeg', href: '/academic' },
-  { name: '英語プログラム', image: '/images/sections/hero/LH-WEBSITE-AdobeStock_306467498.jpeg', href: '/academic' },
-  { name: '集中英語プログラム', image: '/images/sections/services/learning-online.png', href: '/academic' },
-  { name: '英語スキルセミナー', image: '/images/sections/services/Business-skill.png', href: '/academic' },
-  { name: 'TOEIC', image: '/images/raw/1.png', href: '/academic' },
-  { name: '日本語プログラム', image: '/images/sections/about/meeting.png', href: '/academic' },
+  { name: 'ビジネス英語プログラム', image: '/images/sections/hero/AdobeStock_306467549.jpeg', href: '/programs#business-english' },
+  { name: '英語プログラム', image: '/images/sections/hero/LH-WEBSITE-AdobeStock_306467498.jpeg', href: '/programs#english' },
+  { name: '集中英語プログラム', image: '/images/sections/services/learning-online.png', href: '/programs#intensive-english' },
+  { name: '英語スキルセミナー', image: '/images/sections/services/Business-skill.png', href: '/programs#english-skills' },
+  { name: 'TOEIC', image: '/images/raw/1.png', href: '/programs#toeic' },
+  { name: '日本語プログラム', image: '/images/sections/about/meeting.png', href: '/programs#japanese' },
 ];
 
 const programsEn: Program[] = [
-  { name: 'Business English Program', image: '/images/raw/Business-English.png', href: '/academic' },
-  { name: 'English Program', image: '/images/raw/General-Enlish.png', href: '/academic' },
-  { name: 'Intensive English Program', image: '/images/raw/learning.png', href: '/academic' },
-  { name: 'English Skills Seminars', image: '/images/raw/English-Skills-Seminars.png', href: '/academic' },
-  { name: 'TOEIC', image: '/images/raw/qualify.png', href: '/academic' },
-  { name: 'Japanese Program', image: '/images/raw/meeting.png', href: '/academic' },
+  { name: 'Business English Program', image: '/images/raw/Business-English.png', href: '/programs#business-english' },
+  { name: 'English Program', image: '/images/raw/General-Enlish.png', href: '/programs#english' },
+  { name: 'Intensive English Program', image: '/images/raw/learning.png', href: '/programs#intensive-english' },
+  { name: 'English Skills Seminars', image: '/images/raw/English-Skills-Seminars.png', href: '/programs#english-skills' },
+  { name: 'TOEIC', image: '/images/raw/qualify.png', href: '/programs#toeic' },
+  { name: 'Japanese Program', image: '/images/raw/meeting.png', href: '/programs#japanese' },
 ];
 
 const content = {
@@ -36,7 +36,7 @@ const content = {
     heading: '私達のプログラム',
     subheading: 'ランゲージハウスでは、これまで40万人以上の日本企業で働く方々の英語コミュニケーションスキルの向上をお手伝いしてきました。',
     cta: '詳細を見る',
-    ctaHref: '/academic',
+    ctaHref: '/programs',
     programs,
   },
   en: {
@@ -44,7 +44,7 @@ const content = {
     heading: 'Our Programs',
     subheading: 'Language House has helped over 400,000 employees at Japanese companies improve their English communication skills.',
     cta: 'Learn More',
-    ctaHref: '/academic',
+    ctaHref: '/programs',
     programs: programsEn,
   },
 } as const;
