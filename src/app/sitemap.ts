@@ -1,5 +1,7 @@
 import type { MetadataRoute } from 'next';
 
+export const dynamic = 'force-static';
+
 const BASE_URL = 'https://www.languagehouse.jp';
 
 const routes = ['', '/about', '/why-us', '/programs', '/contact-us', '/career'];

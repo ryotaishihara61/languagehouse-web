@@ -1,4 +1,4 @@
 name = "languagehouse-web"
-pages_build_output_dir = ".vercel/output"
+pages_build_output_dir = "out"
 compatibility_flags = ["nodejs_compat"]
 compatibility_date = "2024-11-18"
