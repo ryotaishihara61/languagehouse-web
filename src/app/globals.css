@@ -8,19 +8,20 @@
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
+  --font-sans: var(--font-noto-sans-jp), Arial, Helvetica, sans-serif;
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+  /* Language House brand colors */
+  --color-brand-blue: #046bd2;
+  --color-brand-blue-dark: #045cb4;
+  --color-brand-red: #ef1111;
+  --color-brand-red-dark: #bb0808;
+  --color-brand-slate: #334155;
+  --color-brand-slate-dark: #1e293b;
+  --color-brand-bg: #f0f5fa;
 }
 
 body {
   background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  color: var(--color-brand-slate);
+  font-family: var(--font-sans);
 }
