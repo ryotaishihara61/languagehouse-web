@@ -28,7 +28,7 @@ const snsLinks = [
 
 const content = {
   ja: {
-    tagline: '1976年創業。40年以上にわたり、日本企業のグローバル化を語学教育で支えてきました。',
+    tagline: '1976年創業。半世紀にわたり、日本企業のグローバル化を語学教育で支えてきました。',
     address: '〒760-0052 香川県高松市瓦町２丁目３－２',
     phone: '087-834-3322',
     email: 'website@languagehouse.jp',
