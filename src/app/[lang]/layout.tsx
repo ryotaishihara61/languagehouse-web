@@ -1,9 +1,9 @@
 import type { Metadata } from 'next';
 import { Noto_Sans_JP } from 'next/font/google';
-import { GoogleAnalytics } from '@next/third-parties/google';
 import { i18nConfig, type Locale } from '@/i18n-config';
 import Navigation from '@/components/common/Navigation';
 import Footer from '@/components/common/Footer';
+import GoogleAnalytics from '@/components/GoogleAnalytics';
 import '../globals.css';
 
 const BASE_URL = 'https://www.languagehouse.jp';
