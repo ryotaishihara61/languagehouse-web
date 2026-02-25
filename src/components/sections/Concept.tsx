@@ -11,7 +11,7 @@ const content = {
   ja: {
     label: '沿革',
     heading: '沿革',
-    body: 'ランゲージハウスは半世紀に渡り、さまざまな業種の日本企業にサービスを提供し、お客様の会社従業員の能力向上を図ってきました。',
+    body: 'ランゲージハウスは半世紀にわたり、さまざまな業種の日本企業に英語研修を提供し、従業員の語学力向上を支え続けてきました。',
     cta: '詳細を見る',
     ctaHref: '/about',
     stat1: { value: '288', label: '導入社数', suffix: '社' },
@@ -20,8 +20,8 @@ const content = {
   },
   en: {
     label: 'History',
-    heading: 'Language House has been\nserving Japanese companies\nfor over 40 years.',
-    body: 'Language House has been providing services to Japanese companies across a wide range of industries for over 40 years, helping to develop the language abilities of our clients\' employees.',
+    heading: 'Trusted by Japanese companies\nfor over half a century.',
+    body: 'For over half a century, Language House has delivered English training to Japanese companies across a wide range of industries — helping their employees communicate and succeed in the global arena.',
     cta: 'Learn More',
     ctaHref: '/about',
     stat1: { value: '288', label: 'Companies Served', suffix: '' },

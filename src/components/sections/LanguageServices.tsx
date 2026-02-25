@@ -34,7 +34,7 @@ const content = {
   ja: {
     label: '私達のプログラム',
     heading: '私達のプログラム',
-    subheading: 'ランゲージハウスでは、これまで40万人以上の日本企業で働く方々の英語コミュニケーションスキルの向上をお手伝いしてきました。',
+    subheading: 'これまで40万人以上の日本企業で働く方々の英語力向上に貢献してきました。',
     cta: '詳細を見る',
     ctaHref: '/programs',
     programs,

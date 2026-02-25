@@ -60,14 +60,14 @@ export default async function AboutPage({
             </h1>
             <p className="mt-6 max-w-2xl text-base leading-relaxed text-white/85">
               {ja
-                ? 'ランゲージハウスでは、お客様のためのユニークなニーズに合わせた業界別英語トレーニングを提供することで、日常生活や国際ビジネスでの効果的なコミュニケーションと成功をお約束します。'
-                : 'At Language House, we provide industry-specific English training tailored to the unique needs of each client, ensuring effective communication and success in daily life and international business.'}
+                ? '企業ごとに異なるニーズに応じた業界別英語研修を提供しています。日常業務から国際ビジネスまで、確かなコミュニケーション力をお届けします。'
+                : 'Language House delivers industry-specific English training tailored to each client\'s unique needs — building the communication skills that drive success in international business and beyond.'}
             </p>
           </div>
         </div>
       </section>
 
-      {/* ── 3. History ── */}
+      {/* ── 2. Vision ── */}
       <section id="history" className="py-20 lg:py-28 bg-slate-50">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
           <div className="grid gap-12 lg:grid-cols-2 lg:items-stretch lg:gap-20">
@@ -89,24 +89,24 @@ export default async function AboutPage({
             <div>
               <h2 className="text-3xl font-bold tracking-tight text-[#1e293b] sm:text-4xl">
                 {ja
-                  ? 'グローバル・コミュニケーションで日本のプロフェッショナルを強化する。'
+                  ? '日本のプロフェッショナルに、グローバルで通じる英語を。'
                   : 'Empowering Japanese Professionals Through Global Communication.'}
               </h2>
               <div className="mt-6 space-y-5 text-base leading-relaxed text-slate-600">
                 <p>
                   {ja
-                    ? 'ランゲージハウスでは、コミュニケーションは思考、ニーズ、願望を表現するために不可欠であると考えています。'
-                    : 'At Language House, we believe that communication is essential for expressing thoughts, needs, and aspirations.'}
+                    ? 'ランゲージハウスでは、コミュニケーションを思考・ニーズ・想いを伝える根本的な力と捉えています。'
+                    : 'At Language House, we believe language is more than a tool for communication — it\'s how people express their thoughts, needs, and ambitions.'}
                 </p>
                 <p>
                   {ja
-                    ? '私たちの目標は、効果的な英語のリスニング、スピーキング、リーディング、ライティングに必要なスキルを身につけ、理解し、理解されるようにすることです。文化的なニュアンスを考慮した有意義で効果的な言語ツールを提供し、クライアントが自信を持って自分の考えを表現できるようにします。コミュニケーションにとどまらず、私たちは説得における言語の力を認識しています。ビジネスであれ、社交であれ、流暢さ、構成、スタイルが重要です。'
-                    : 'Our goal is to develop the skills needed for effective English listening, speaking, reading, and writing — to understand and be understood. We provide meaningful and effective language tools that take cultural nuances into account, empowering clients to express their ideas with confidence. Beyond communication, we recognize the power of language in persuasion. Whether in business or social settings, fluency, structure, and style matter.'}
+                    ? '私たちの目標は、リスニング・スピーキング・リーディング・ライティングを通じて「伝え、伝わる」力を育てることです。文化的なニュアンスを踏まえた実践的な言語ツールを提供し、クライアントが自信を持って自己表現できるよう支援します。そしてコミュニケーションの先にある「説得する力」も重視します。ビジネスでも社交の場でも、流暢さ・構成・スタイルが成果を左右します。'
+                    : 'Our goal is to build the listening, speaking, reading, and writing skills needed to truly understand and be understood. We provide language tools that account for cultural nuance — so clients can express their ideas with confidence. And we go beyond communication: we recognize the power of language in persuasion. In business and social settings alike, fluency, structure, and style make the difference.'}
                 </p>
                 <p>
                   {ja
-                    ? 'ランゲージハウスは、他の語学学校とは異なり、日本人のプロフェッショナルが英語をマスターし、効果的に使うことで、各分野で卓越した成果を上げることに重点を置いています。コミュニケーションは基礎であり、説得力は言語の熟練した実行力です。'
-                    : 'Unlike other language schools, Language House focuses on helping Japanese professionals master English and use it effectively to achieve outstanding results in their respective fields. Communication is the foundation; persuasion is the skillful execution of language.'}
+                    ? 'ランゲージハウスが他の語学学校と一線を画すのは、単なる英会話の向上にとどまらず、各分野のプロフェッショナルが英語を武器にして成果を上げることに重点を置いているからです。伝える力がコミュニケーションの基礎なら、相手を動かす説得力こそ言語の真の力です。'
+                    : 'Unlike other language schools, Language House focuses on helping Japanese professionals master English as a tool for results — not just conversation. Communication is the foundation; the ability to persuade is where language becomes power.'}
                 </p>
               </div>
             </div>
@@ -114,8 +114,8 @@ export default async function AboutPage({
         </div>
       </section>
 
-      {/* ── 3b. History ── */}
-      <section id="history" className="py-20 lg:py-28 bg-white">
+      {/* ── 3. History ── */}
+      <section id="our-history" className="py-20 lg:py-28 bg-white">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
           <div className="mx-auto max-w-3xl">
             <h2 className="text-3xl font-bold tracking-tight text-[#1e293b] sm:text-4xl">
@@ -124,18 +124,18 @@ export default async function AboutPage({
             <div className="mt-6 space-y-5 text-base leading-relaxed text-slate-600">
               <p>
                 {ja
-                  ? 'ランゲージハウスは、1976年の創立以来、ビジネス英語教育の革新的なアプローチで、日本のプロフェッショナルに力を与えてきました。'
-                  : 'Since its founding in 1976, Language House has empowered Japanese professionals with an innovative approach to business English education.'}
+                  ? 'ランゲージハウスは1976年の創業以来、独自のアプローチで日本のプロフェッショナルのビジネス英語力を支えてきました。'
+                  : 'Since 1976, Language House has helped Japanese professionals thrive in global business through a distinctive approach to English education.'}
               </p>
               <p>
                 {ja
-                  ? 'ランゲージハウスの歴史は、今から約60年前、ニュージーランド出身の青年グラハム・ペイジが、日本人学習者に英語を教えるという夢を抱いて来日したことに始まります。彼はすぐに、日本の画一的な英語教育が、日本人が英語でコミュニケーションをとるための最も効果的な方法ではないことに気づき、学習者が "Communicate and Persuade"（伝え、説得する）ための独自の哲学と方法を開発し始めました。そしてこの哲学を取り入れた独自のテキストや教材を生徒たちにテストを重ねながら、何年もかけて作り上げました。'
-                  : 'The history of Language House began some 60 years ago when a young New Zealander named Graham Page came to Japan with a dream of teaching English to Japanese learners. He quickly realized that Japan\'s uniform approach to English education was not the most effective way for Japanese people to communicate in English, and began developing his own philosophy and methods for learners to "Communicate and Persuade." Over many years, he tested and refined original textbooks and materials with his students.'}
+                  ? 'ランゲージハウスの歴史は、今から約60年前、ニュージーランド出身の青年グラハム・ペイジが「日本人に英語を教えたい」という夢を胸に来日したことから始まります。彼はすぐに、日本の画一的な英語教育が効果的でないことを感じ取り、学習者が "Communicate and Persuade"（伝え、説得する）ための独自の哲学とメソッドを開発し始めました。そして何年もかけて、生徒との実践を重ねながら独自のテキストと教材を完成させていきました。'
+                  : 'The story begins roughly 60 years ago, when a young New Zealander named Graham Page arrived in Japan with a dream of teaching English. He quickly recognized that Japan\'s standardized approach wasn\'t equipping learners to truly communicate — and set about developing his own philosophy centered on the idea of "Communicate and Persuade." Over many years, he refined original textbooks and materials through constant testing with his students.'}
               </p>
               <p>
                 {ja
                   ? 'そして、1976年、株式会社ランゲージハウスが誕生したのです。四国を中心に着実に事業を拡大し、現在では西日本を代表するビジネス英語の会社となっています。'
-                  : 'In 1976, Language House Corporation was born. The company steadily expanded, primarily in Shikoku, and has grown to become one of the leading business English companies in western Japan.'}
+                  : 'In 1976, Language House Corporation was formally established. Rooted in Shikoku, the company grew steadily to become one of the leading business English providers in western Japan.'}
               </p>
             </div>
           </div>
@@ -153,18 +153,18 @@ export default async function AboutPage({
               <div className="mt-6 space-y-5 text-base leading-relaxed text-slate-600">
                 <p>
                   {ja
-                    ? '私達は個人の考え、ニーズ、願望を表現する手段としての言語の力を信じています。私たちの理念は、リスニング、スピーキング、リーディング、ライティングを含む総合的な言語スキルを身につけることを中心に据えています。私たちは、効果的なコミュニケーションと説得のために言語ツールを戦略的に活用することを重視しています。'
-                    : 'We believe in the power of language as a means to express individual thoughts, needs, and aspirations. Our philosophy centers on developing comprehensive language skills including listening, speaking, reading, and writing, with an emphasis on strategically using language tools for effective communication and persuasion.'}
+                    ? '言語には、個人の考え・ニーズ・想いを伝える力があると信じています。私たちの理念の核心は、リスニング・スピーキング・リーディング・ライティングを包括的に鍛えること。単なるコミュニケーションにとどまらず、説得力のある表現のために言語ツールを戦略的に使いこなすことを重視しています。'
+                    : 'We believe in the power of language as a means of expressing thoughts, needs, and aspirations. Our philosophy centers on building comprehensive skills across listening, speaking, reading, and writing — with a particular emphasis on using language strategically for both effective communication and persuasion.'}
                 </p>
                 <p>
                   {ja
-                    ? '同業他社とは異なり、私たちは単なる社会化にとどまらず、さまざまな分野の専門家の具体的なニーズを優先し、専門家、エンジニア、企業関係者、学識経験者に対し、業界に特化した指導とオーダーメイドの語学トレーニングを提供しています。'
-                    : 'Unlike our competitors, we go beyond mere socialization to prioritize the specific needs of professionals across various fields, providing industry-specific instruction and tailor-made language training for specialists, engineers, business professionals, and academics.'}
+                    ? '他の語学スクールが「日常会話」に重点を置くのに対し、私たちはさまざまな分野のプロフェッショナルの具体的なニーズを優先します。専門家・エンジニア・ビジネスパーソン・研究者それぞれに合わせた、業界特化の指導とオーダーメイドの語学研修を提供しています。'
+                    : 'Unlike many language schools, we go well beyond conversational English. We prioritize the specific needs of professionals across fields — delivering industry-specific instruction and tailored language training for specialists, engineers, business professionals, and academics.'}
                 </p>
                 <p>
                   {ja
-                    ? '最終的には、一般的な会話力よりも実践的な語学力を優先し、国際ビジネスで成功するために必要な語学ツールを企業のお客様に身につけていただくことを第一の目標としています。'
-                    : 'Ultimately, our primary goal is to equip corporate clients with the language tools needed to succeed in international business, prioritizing practical language skills over general conversational ability.'}
+                    ? '日常会話の向上より、国際ビジネスで成果を出せる実践的な語学力を。それが私たちの企業のお客様への約束です。'
+                    : 'Our ultimate goal: equipping corporate clients with the practical language skills they need to succeed in international business — not just to chat, but to perform.'}
                 </p>
               </div>
             </div>
@@ -223,23 +223,23 @@ export default async function AboutPage({
               <div className="mt-6 space-y-5 text-base leading-relaxed text-slate-600">
                 <p>
                   {ja
-                    ? '私たちのユニークな強みは、最初のレッスンから英語漬けになるランゲージ・ハウスの教授法にあります。単に言語を「学ぶ」のではなく、「習得する」ことに重点を置いています。言語を習得すれば、それは第二の天性となります。母国語を使うのと同じように、その言語に素早く自然にアクセスし、使うことができるようになります。'
-                    : 'Our unique strength lies in the Language House teaching method, which immerses students in English from the very first lesson. We focus not merely on "learning" a language, but on "acquiring" it. Once acquired, language becomes second nature — you can access and use it quickly and naturally, just as you do your mother tongue.'}
+                    ? '当校の特徴は、最初のレッスンから英語に完全に没入するランゲージハウスの教授法にあります。単に言語を「学ぶ」のではなく「習得する」ことを目指しています。習得された言語は第二の天性となり、母国語を話すように自然に、素早く使えるようになります。'
+                    : 'What sets Language House apart is its teaching method — total English immersion from the very first lesson. We focus not on merely "learning" a language, but on truly "acquiring" it. Acquired language becomes second nature: accessible and automatic, just like your mother tongue.'}
                 </p>
                 <p>
                   {ja
-                    ? '私たちは、生徒の言語成長を促し、第二言語としての英語を真「習得」させるために、挑戦的でありながら理解しやすい、魅力的なテクニックと教材を使用しています。ランゲージハウスのメソッドは、英語でのリスニングとスピーキングのみに重点を置き、自然で直感的な学習環境を作り出します。'
-                    : 'We use engaging techniques and materials that are challenging yet comprehensible to foster students\' language growth and true "acquisition" of English as a second language. The Language House Method focuses exclusively on listening and speaking in English, creating a natural and intuitive learning environment.'}
+                    ? '言語の真の「習得」を促すため、挑戦的でありながら理解しやすい、充実したテクニックと教材を用います。ランゲージハウスのメソッドは英語でのリスニングとスピーキングに特化しており、自然で直感的な学習環境を生み出します。'
+                    : 'We use techniques and materials that are challenging yet comprehensible — designed to foster genuine language growth and true acquisition of English as a second language. The Language House Method focuses exclusively on listening and speaking in English, creating a natural, intuitive learning environment.'}
                 </p>
                 <p>
                   {ja
-                    ? 'レッスンはすべて英語で行われ、生徒がターゲット言語で考え、反応することを促します。このアプローチは、言語習得を加速させるだけでなく、国際ビジネスの成功に不可欠な自信と流暢さを養います。'
-                    : 'All lessons are conducted entirely in English, encouraging students to think and respond in the target language. This approach not only accelerates language acquisition but also builds the confidence and fluency essential for success in international business.'}
+                    ? 'レッスンはすべて英語で進行し、生徒が英語で考え、英語で反応することを自然と促します。この没入型アプローチが言語習得を加速させ、国際ビジネスに不可欠な自信と流暢さを育てます。'
+                    : 'All lessons are conducted in English, naturally encouraging students to think and respond in the language. This immersive approach accelerates acquisition while building the confidence and fluency that international business demands.'}
                 </p>
                 <p>
                   {ja
-                    ? '日常的なビジネスシーンで使用される実用的な語彙やフレーズに重点を置くことで、受講生は専門的な職務において効果的なコミュニケーションを図るために必要なスキルを短期間で身につけることができます。'
-                    : 'By focusing on practical vocabulary and phrases used in everyday business situations, students can quickly acquire the skills needed to communicate effectively in their professional roles.'}
+                    ? '日常のビジネスシーンで使われる語彙やフレーズに重点を置くため、受講生は専門的な業務で即役立つコミュニケーションスキルを短期間で身につけることができます。'
+                    : 'By centering on vocabulary and phrases from real business contexts, students quickly build the skills they need to communicate effectively in their professional roles.'}
                 </p>
               </div>
             </div>
