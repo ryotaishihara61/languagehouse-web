@@ -34,8 +34,8 @@ const programs = {
       name: 'ビジネス英語プログラム',
       image: '/images/sections/hero/AdobeStock_306467549.jpeg',
       body: [
-        'ビジネス英語のエッセンスから、各業界に特化した専門的なプログラムまで、各組織の目標やご要望に合わせた包括的なコースをご用意しています。私たちは、グローバルなビジネスの世界で「プロフェッショナル」としての能力を発揮できる場面（プレゼンテーション、経営会議、技術論文、交渉、問題解決スキル、異文化コミュニケーションなど）で、生徒一人ひとりが本来持っている能力を発揮できるようサポートします。',
-        '私たちのアプローチでは、御社のご要望と生徒の習熟度の初期評価に正確に沿った、パーソナライズされたコースを作成します。適切な講師の選定から教授法の考案、関連教材の選択まで、あらゆる面をカスタマイズします。',
+        'ビジネス英語の基礎から各業界に特化した専門プログラムまで、組織の目標に合わせた包括的なコースをご提供します。プレゼンテーション、経営会議、技術論文、交渉、問題解決、異文化コミュニケーションなど、グローバルビジネスの現場で求められるあらゆる場面で実力を発揮できるよう、一人ひとりを支援します。',
+        'ご要望と受講生の習熟度評価をもとに、パーソナライズされたコースを設計します。講師の選定から教授法・教材の選択まで、すべてをカスタマイズして最適な研修をお届けします。',
       ],
     },
     {
@@ -43,8 +43,8 @@ const programs = {
       name: '英語プログラム',
       image: '/images/sections/hero/LH-WEBSITE-AdobeStock_306467498.jpeg',
       body: [
-        '当校の基礎英語プログラムは、文法、スピーキング、ライティング、総合的なコミュニケーションなど、すべての主要分野における英語スキルの向上を目指す学生を対象に、緊密にデザインされています。インタラクティブなレッスン、実践的なエクササイズ、魅力的なアクティビティを通して、英語の基礎を固めます。',
-        '実績のある当校のプログラムは、常に生徒の英語力を「レベルアップ」させてきました。実践的な言語使用と実社会での応用に重点を置くことで、個人的な成長、旅行、専門的な能力開発の初期段階など、学習者が多様な文脈で効果的にコミュニケーションを取れるようにします。',
+        '文法・スピーキング・ライティング・総合的なコミュニケーションなど、主要分野を網羅した基礎英語プログラムです。インタラクティブなレッスンと実践的な演習を通じて、英語の土台をしっかりと築きます。',
+        '実績あるプログラムが、着実に英語力を「レベルアップ」させます。実践的な言語使用と実社会での応用を重視し、日常会話・旅行・仕事の初期段階まで、さまざまな場面で自信を持ってコミュニケーションできる力を育てます。',
       ],
     },
     {
@@ -52,8 +52,8 @@ const programs = {
       name: '集中英語プログラム',
       image: '/images/sections/services/learning-online.png',
       body: [
-        'ビジネスのグローバルなプレゼンスを高めたいとお考えですか？海外赴任を控えている従業員をお持ちですか？私たちの集中ビジネス英語コースは、貴社の競争力を高め、社員が英語環境で活躍するための鍵となるものです。',
-        '専門の講師陣、実践的なシミュレーション、多彩な教材で、のために特別にデザインされたカスタマイズコースを、ご希望のスケジュールに合わせてお作りします。グローバル市場でシームレスに適応し、活躍するために必要な語学力を、ぜひ私たちにお任せください。',
+        'グローバルなプレゼンスを強化したい企業に。海外赴任を控えた社員に。当校の集中ビジネス英語コースが、英語環境で活躍するための実力を短期間で養います。',
+        '専門講師・実践的なシミュレーション・多彩な教材を組み合わせ、ご希望のスケジュールに合わせた完全カスタマイズコースをお作りします。グローバル市場で即戦力になるための語学力を、私たちと共に築きましょう。',
       ],
     },
     {
@@ -61,8 +61,8 @@ const programs = {
       name: '英語スキルセミナー',
       image: '/images/sections/services/Business-skill.png',
       body: [
-        'ランゲージハウスの英語スキルアップセミナーは、日本企業向けに特別にデザインされています。このセミナーは、人前でのスピーチ、インパクトのあるプレゼンテーション、会議での効果的なコミュニケーションなど、プロフェッショナルな英語スピーキングに不可欠な側面に焦点を当てた 1 日集中型のセミナーです。',
-        '経験豊富なトレーナーが、実践的な練習と個別のフィードバックを提供することで、即座の上達と持続的な自信をお約束します。今日のグローバル市場で活躍するために必要なスキルを身につけ、ビジネス交流の質を高めましょう。',
+        '日本企業向けに開発した1日集中型セミナーです。人前でのスピーチ、インパクトのあるプレゼンテーション、会議での効果的なコミュニケーションなど、ビジネス英語スピーキングの核心に集中して取り組みます。',
+        '経験豊富なトレーナーによる実践練習と個別フィードバックで、即日の改善と持続的な自信をお約束します。グローバル市場で求められるスキルを短期間で習得し、ビジネスコミュニケーションの質を一段階引き上げましょう。',
       ],
     },
     {
@@ -70,8 +70,8 @@ const programs = {
       name: 'TOEIC',
       image: '/images/raw/1.png',
       body: [
-        '競争の激しいビジネスシーンにおいて、特にグローバル人材を目指す方にとって、高い英語力はキャリアアップに欠かせません。ランゲージハウスでは、TOEIC（またはTOEFL / GMAT）のスコアを昇進のための重要な指標とお考えのお客様に特化した、カスタマイズされたカリキュラムの作成を専門としています。',
-        '私たちの専門知識により、TOEIC試験で優秀な成績を収め、キャリアアップの新たなチャンスをつかむために必要なスキルを身につける、的を絞ったプログラムを開発することができます。',
+        '競争の激しいビジネスシーンで、グローバル人材を目指す方にとって英語力は不可欠です。TOEICやTOEFL・GMATスコアを昇進・キャリアアップの指標とされているお客様向けに、目標スコアに直結したカスタマイズカリキュラムを提供しています。',
+        '目標スコア取得に直結する集中プログラムで、確かなスキルを習得。キャリアアップへの新たな扉を開きます。',
       ],
     },
     {
@@ -79,8 +79,8 @@ const programs = {
       name: '日本語プログラム',
       image: '/images/sections/about/meeting.png',
       body: [
-        '日本企業が外国人労働者の雇用を増やす中、日本語能力の向上は仕事と個人の成功に不可欠です。当校のオーダーメイドクラスは、集中的な学習ニーズにも、定期的な学習ニーズにも柔軟に対応し、勤務時間への支障を最小限に抑えます。企業や受講生と明確な目標を設定することで、必要な日本語スキルに焦点を当てたカリキュラムをカスタマイズし、効率的かつ効果的な学習プロセスを実現します。',
-        '私たちの集中学習アプローチは、燃え尽きやフラストレーションを防ぐために、主要な言語スキルに優先順位を付けます。初心者の方には、第二言語として日本語を学んだ経験のある教師が、教師自身の経験に基づいた、共感できるアドバイスと効果的な学習方法をお伝えします。上級者の方には、複雑な概念、発音、ニュアンスをマスターするために、ネイティブ講師とペアを組みます。',
+        '外国人雇用が増加する中、日本語能力は職場でも日常生活でも成功の鍵です。当校のオーダーメイドクラスは、集中型・定期型どちらにも柔軟に対応し、業務への支障を最小限に抑えながら確実な上達を実現します。',
+        '無理のない着実な上達のために、優先度の高い言語スキルに的を絞ってカリキュラムを組みます。初心者には第二言語として日本語を学んだ経験を持つ講師が共感を交えて指導し、上級者には複雑な概念や発音・ニュアンスを磨くためにネイティブ講師とペアを組みます。',
       ],
     },
   ],
@@ -90,8 +90,8 @@ const programs = {
       name: 'Business English Program',
       image: '/images/sections/hero/AdobeStock_306467549.jpeg',
       body: [
-        'From the essentials of business English to specialized programs for each industry, we offer comprehensive courses tailored to each organization\'s goals and requirements. We support each student in demonstrating their full potential in professional business situations — presentations, executive meetings, technical papers, negotiations, problem-solving, and cross-cultural communication.',
-        'Our approach creates personalized courses precisely aligned with your requirements and an initial assessment of student proficiency. Everything is customized, from selecting the right instructor to devising teaching methods and choosing relevant materials.',
+        'From foundational business English to industry-specific programs, we offer comprehensive courses tailored to your organization\'s goals. We help every student rise to the demands of global business — presentations, executive meetings, technical writing, negotiations, problem-solving, and cross-cultural communication.',
+        'Each course is built around your requirements and an initial assessment of student proficiency — from selecting the right instructor to tailoring teaching methods and materials.',
       ],
     },
     {
@@ -99,8 +99,8 @@ const programs = {
       name: 'English Program',
       image: '/images/sections/hero/LH-WEBSITE-AdobeStock_306467498.jpeg',
       body: [
-        'Our foundational English program is closely designed for students seeking to improve their English skills across all key areas — grammar, speaking, writing, and overall communication. Through interactive lessons, practical exercises, and engaging activities, we build a solid foundation in English.',
-        'Our proven program has consistently helped students "level up" their English proficiency. By emphasizing practical language use and real-world application, we enable learners to communicate effectively in diverse contexts — personal growth, travel, or the early stages of professional development.',
+        'Our foundational English program covers all the key areas — grammar, speaking, writing, and overall communication. Through interactive lessons and practical exercises, students build a strong, lasting foundation in English.',
+        'Our proven program consistently helps students level up their English proficiency. With an emphasis on practical use and real-world application, learners gain the confidence to communicate across a range of contexts — from everyday conversations to the early stages of professional life.',
       ],
     },
     {
@@ -108,8 +108,8 @@ const programs = {
       name: 'Intensive English Program',
       image: '/images/sections/services/learning-online.png',
       body: [
-        'Looking to enhance your business\'s global presence? Do you have employees preparing for overseas assignments? Our intensive business English course is the key to strengthening your company\'s competitiveness and helping your staff thrive in English-speaking environments.',
-        'With expert instructors, practical simulations, and diverse materials, we create a customized course specially designed for your needs and schedule. Trust us to equip your team with the language skills they need to adapt and excel seamlessly in the global marketplace.',
+        'Looking to strengthen your company\'s global presence? Preparing staff for overseas assignments? Our intensive business English course equips your team with the skills to thrive in English-speaking environments — fast.',
+        'Expert instructors, practical simulations, and carefully selected materials come together in a fully customized course built around your schedule. We\'ll equip your team with the language skills to hit the ground running in the global marketplace.',
       ],
     },
     {
@@ -117,8 +117,8 @@ const programs = {
       name: 'English Skills Seminars',
       image: '/images/sections/services/Business-skill.png',
       body: [
-        'Language House\'s English Skills Seminars are specially designed for Japanese companies. These intensive one-day seminars focus on essential aspects of professional English speaking — public speaking, impactful presentations, and effective communication in meetings.',
-        'Experienced trainers provide hands-on practice and personalized feedback, guaranteeing immediate improvement and lasting confidence. Acquire the skills you need to excel in today\'s global market and elevate the quality of your business interactions.',
+        'A focused, one-day intensive seminar designed for Japanese companies. We zero in on the essentials of professional English — public speaking, impactful presentations, and effective communication in meetings.',
+        'Expert trainers deliver hands-on practice and personalized feedback — driving immediate improvement and lasting confidence. Leave equipped to communicate clearly and convincingly in any business setting.',
       ],
     },
     {
@@ -126,8 +126,8 @@ const programs = {
       name: 'TOEIC',
       image: '/images/raw/1.png',
       body: [
-        'In today\'s competitive business environment, a high level of English proficiency is essential for career advancement — especially for those aiming to work globally. Language House specializes in creating customized curricula for clients who view TOEIC (or TOEFL/GMAT) scores as an important benchmark for promotion.',
-        'Our expertise enables us to develop targeted programs that equip students with the skills needed to achieve excellent TOEIC scores and seize new career advancement opportunities.',
+        'In a competitive business environment, English proficiency is a decisive factor in career advancement — especially for those with global ambitions. Language House specializes in building customized curricula for clients who use TOEIC, TOEFL, or GMAT scores as benchmarks for promotion.',
+        'We develop targeted programs that build the skills needed to score high and open new doors for career advancement.',
       ],
     },
     {
@@ -135,8 +135,8 @@ const programs = {
       name: 'Japanese Program',
       image: '/images/sections/about/meeting.png',
       body: [
-        'As Japanese companies increasingly hire foreign workers, improving Japanese language proficiency is essential for professional and personal success. Our tailor-made classes flexibly accommodate intensive or regular learning needs, minimizing disruption to work schedules.',
-        'By setting clear goals with companies and students, we customize curricula focused on the necessary Japanese skills, ensuring an efficient and effective learning process. Our focused approach prioritizes key language skills to prevent burnout and frustration.',
+        'As Japanese companies increasingly hire foreign workers, Japanese language proficiency has become essential — for the workplace and beyond. Our tailor-made classes flex around intensive or regular learning needs, with minimal disruption to work schedules.',
+        'Working closely with companies and students, we build focused curricula around the skills that matter most — making the learning process efficient, effective, and sustainable. Beginners are guided by instructors who have learned Japanese as a second language, while advanced learners are paired with native speakers to master nuance and pronunciation.',
       ],
     },
   ],
@@ -145,17 +145,17 @@ const programs = {
 const faqs = {
   ja: [
     { q: 'どのような英語プログラムを提供していますか？', a: '職場や英語環境で使用される英語に焦点を当てた様々なコースを提供しています。各プログラムは、御社のニーズに合わせてカスタマイズいたしますので、特定の業種に合わせたコースも可能です。また、学生を対象とした基礎英語プログラムも提供しており、基本的な英文法とコミュニケーションスキルを固めることに重点を置いています。' },
-    { q: 'プログラムはどのように提供されるのですか？', a: '各クライアントのプログラムへの参加方法については、非常に柔軟性があります。場所によっては、お客様のオフィスで直接受講することも、ビデオ会議によるオンライン受講も、あるいは両方の方法を組み合わせた受講も可能です。最も効率的で実行可能なオプションを決定するために協力させて頂きます。' },
+    { q: 'プログラムはどのように提供されるのですか？', a: '受講形式は非常に柔軟に対応しています。場所によっては、お客様のオフィスでの対面受講も、ビデオ会議によるオンライン受講も、あるいは両方を組み合わせた受講も可能です。最適な方法を一緒にご検討いたします。' },
     { q: '講師の資格を教えてください？', a: '当校の講師は全員、ビジネス英語の指導経験が豊富で、高い資格を持つネイティブ・スピーカーです。多くの講師は上級学位を持ち、ビジネス分野での専門的な経歴も持っています。また、全員が日本での生活と指導の経験があり、日本人従業員の英語学習に対する具体的なニーズを熟知しています。' },
     { q: '会社のニーズに合わせてトレーニングをカスタマイズできますか？', a: 'はい、御社や従業員の特定のニーズや目標に合わせてカスタマイズした研修プログラムを提供しています。' },
-    { q: 'コースの期間と回数は？', a: 'コースの期間と回数は、あなたのスケジュールに合わせて調整することができます。インテンシブ・コース、週1回のレギュラー・クラス、フレキシブルなスケジュール・オプションがあります。' },
-    { q: '社員の英語レベルはどのように評価するのですか？', a: '当社では、各社員の英語力レベルを判定し、適切なレベルのコースに配属するために、面接を通じて潜在的な学生を総合的に評価しています。' },
-    { q: 'コースではどのような教材や資料を使用しますか？', a: '当校では、独自に開発した実績のあるビジネス英語テキスト、オンライン・リソース、実際のビジネス・シナリオ、学習効果を高めるインタラクティブなアクティビティなど、さまざまな教材を使用しています。どの教材があなたの目標達成に最も適しているか、ご一緒に考えていきます。' },
-    { q: '進捗状況の報告や評価はありますか？', a: 'はい、定期的に進捗状況の報告や評価を行い、従業員の語学力の伸びを確認します。' },
-    { q: '1クラスの最大参加人数は？', a: 'クラスの定員はとてもフレキシブルで、レッスンの進め方によって大きく異なります。少人数のグループレッスンはもちろん、マンツーマンのレッスンも大変人気があります。必要であれば、大人数のグループにも対応できます。どのような場合でも、一人一人に目が行き届き、効果的な学習ができるようなクラス編成になるよう努めています。' },
-    { q: '企業英語研修を始めるには？', a: 'まずはご相談ください。お客様のニーズや目標をお伺いします。' },
-    { q: 'トレーニング・プログラムにかかる費用は？', a: 'コースの種類、期間、参加人数によって異なります。弊社では競争力のある価格を設定しており、ご要望に応じて詳細なお見積もりをお出しいたします。' },
-    { q: '他の顧客からの紹介や感想などを提供してもらえますか？', a: 'もちろんです。ご要望があれば、ご満足いただいている他の企業のお客様からの推薦状や体験談をご提供いたします。' },
+    { q: 'コースの期間と回数は？', a: 'コースの期間と回数は、お客様のスケジュールに合わせて調整できます。集中コース、週1回のレギュラークラス、フレキシブルなスケジュールなど、さまざまなオプションをご用意しています。' },
+    { q: '社員の英語レベルはどのように評価するのですか？', a: '面接を通じて各受講生を総合的に評価し、英語力のレベルを判定した上で、適切なコースへご案内します。' },
+    { q: 'コースではどのような教材や資料を使用しますか？', a: '当校独自のビジネス英語テキスト、オンラインリソース、実際のビジネスシナリオ、インタラクティブなアクティビティなど、多様な教材を活用しています。目標達成に最適な教材を一緒に選んでいきます。' },
+    { q: '進捗状況の報告や評価はありますか？', a: 'はい、定期的に進捗報告と評価を行い、従業員の語学力の伸びを確認します。' },
+    { q: '1クラスの最大参加人数は？', a: 'クラスの人数はレッスン形式に応じて柔軟に対応しています。少人数グループもマンツーマンも大変人気があり、大人数グループにも対応可能です。いかなる場合も、一人ひとりへの目配りと効果的な学習を両立できるクラス編成を心がけています。' },
+    { q: '企業英語研修を始めるには？', a: 'まずはお気軽にご相談ください。お客様のニーズや目標をお伺いした上で、最適なプログラムをご提案いたします。' },
+    { q: 'トレーニング・プログラムにかかる費用は？', a: 'コースの種類、期間、参加人数によって異なります。競争力のある価格を設定しており、ご要望に応じて詳細なお見積もりをご提示いたします。' },
+    { q: '他の顧客からの紹介や感想などを提供してもらえますか？', a: 'もちろんです。ご要望があれば、ご満足いただいている企業のお客様からの推薦状や体験談をご提供いたします。' },
     { q: '指導の機会はありますか？', a: '採用情報のページをご覧ください。' },
   ],
   en: [
@@ -210,8 +210,8 @@ export default async function ProgramsPage({
             </h1>
             <p className="mt-6 max-w-2xl text-base leading-relaxed text-white/85">
               {ja
-                ? 'ランゲージハウスのメソッドは、あらゆるレベルの日系企業で働く何千人もの方々の英語コミュニケーションスキルの向上に貢献してきました。実績のある教授法と魅力的な教材により、参加者一人ひとりが包括的なサポートと指導を受けることができます。'
-                : "Language House's method has contributed to improving the English communication skills of thousands of people working at Japanese companies at all levels. With proven teaching methods and engaging materials, each participant receives comprehensive support and guidance."}
+                ? 'ランゲージハウスのメソッドは、あらゆる規模・業種の日系企業で働く何千人もの方々の英語力向上に貢献してきました。実績あるメソッドと充実した教材で、参加者一人ひとりが確かなサポートを受けながら成長できます。'
+                : "Language House has helped thousands of professionals at Japanese companies of all sizes sharpen their English. Our proven methods and engaging materials ensure every participant gets the focused support they need to grow."}
             </p>
           </div>
         </div>
@@ -293,14 +293,14 @@ export default async function ProgramsPage({
       <section className="py-20 lg:py-28 bg-[#046bd2]">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 text-center">
           <h2 className="text-3xl font-bold text-white sm:text-4xl">
-            {ja ? '貴方の目指すゴールに向かって' : 'Toward Your Goals'}
+            {ja ? '目指すゴールに向けて、共に。' : 'Let\'s reach your goals together.'}
           </h2>
           <div className="mt-8">
             <Link
               href={href('/contact-us')}
               className="inline-flex items-center gap-2 rounded-md bg-white px-8 py-3 text-sm font-semibold text-[#046bd2] shadow-sm transition-colors hover:bg-white/90"
             >
-              Contact Us
+              {ja ? 'お問い合わせ' : 'Contact Us'}
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className="h-4 w-4" aria-hidden="true">
                 <path fillRule="evenodd" d="M3 10a.75.75 0 01.75-.75h10.638L10.23 5.29a.75.75 0 111.04-1.08l5.5 5.25a.75.75 0 010 1.08l-5.5 5.25a.75.75 0 11-1.04-1.08l4.158-3.96H3.75A.75.75 0 013 10z" clipRule="evenodd" />
               </svg>
@@ -317,8 +317,8 @@ export default async function ProgramsPage({
           </h2>
           <p className="mt-4 text-base text-slate-600">
             {ja
-              ? 'FAQセクションは、私たちのプログラムや会社について、よくあるご質問にお答えしています。その他、ご不明な点がございましたら、お気軽にお問い合わせください。'
-              : 'This FAQ section answers common questions about our programs and company. If you have any other questions, please feel free to contact us.'}
+              ? 'プログラムや弊社についてよくいただくご質問をまとめました。その他ご不明な点がありましたら、お気軽にお問い合わせください。'
+              : 'Answers to the questions we hear most often. Can\'t find what you\'re looking for? Feel free to contact us.'}
           </p>
           <dl className="mt-10 divide-y divide-slate-200">
             {faqList.map(({ q, a }) => (

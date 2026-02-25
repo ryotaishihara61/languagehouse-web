@@ -60,8 +60,8 @@ export default async function WhyUsPage({
             </h1>
             <p className="mt-6 max-w-2xl text-base leading-relaxed text-white/85">
               {ja
-                ? '弊社は1976年の設立以来、日本における企業およびビジネス英語トレーニングのリーダーとして信頼されてきました。私たちの理念、メソッド、コースは、日本人従業員の英語能力を向上させるという実績があります。'
-                : 'Since our founding in 1976, we have been trusted as a leader in corporate and business English training in Japan. Our philosophy, methods, and courses have a proven track record of improving the English proficiency of Japanese employees.'}
+                ? '1976年の創業以来、半世紀にわたって日本の企業英語研修を牽引してきました。確かな理念と実績あるメソッドが、日本人ビジネスパーソンの英語力向上を力強く支えます。'
+                : 'For nearly 50 years, we\'ve been a trusted leader in corporate English training in Japan. Our proven philosophy and methods have helped thousands of Japanese professionals communicate with confidence.'}
             </p>
           </div>
         </div>
@@ -86,8 +86,8 @@ export default async function WhyUsPage({
               </h2>
               <p className="mt-6 text-base leading-relaxed text-slate-600">
                 {ja
-                  ? '弊社は1976年の設立以来、日本における企業英語研修の豊富な経験を持つ、各分野のエキスパートが講師を務めます。具体的な成果をもたらす質の高いトレーニングを提供するために、私たちの知識と専門知識を信頼してください。'
-                  : 'Since our founding in 1976, our courses are taught by experts with extensive experience in corporate English training in Japan. Trust in our knowledge and expertise to deliver high-quality training that produces tangible results.'}
+                  ? '1976年の創業以来積み上げてきた企業英語研修の経験と専門知識が、私たちの基盤です。各分野のエキスパートが講師を務め、確かな成果につながる質の高いトレーニングをお届けします。'
+                  : 'Built on nearly 50 years of corporate English training in Japan, our courses are taught by specialists with deep industry expertise — delivering high-quality instruction that produces real, measurable results.'}
               </p>
             </div>
           </div>
@@ -105,13 +105,13 @@ export default async function WhyUsPage({
               <div className="mt-6 space-y-4 text-base leading-relaxed text-slate-600">
                 <p>
                   {ja
-                    ? '当校の講師陣は、当校の最大の強みです。経験豊富で、関連学位を持ち、日本の企業環境を深く理解しています。彼らは皆、日本に住み、働いた経験があり、日本人とのコミュニケーションや仕事の経験が長いネイティブ、またはネイティブに近いスピーカーです。'
-                    : 'Our instructors are our greatest strength. They are experienced, hold relevant degrees, and have a deep understanding of the Japanese corporate environment. They have all lived and worked in Japan and are native or near-native speakers with extensive experience communicating and working with Japanese people.'}
+                    ? '当校の講師陣は最大の強みです。経験豊富で関連資格を持ち、日本の企業文化を深く理解しています。全員が日本での居住・就労経験を持ち、日本人と長年にわたってコミュニケーションを重ねてきたネイティブ、またはネイティブに準ずるスピーカーです。'
+                    : 'Our instructors are our greatest strength. Experienced, credentialed, and deeply familiar with Japanese corporate culture, they have all lived and worked in Japan — native or near-native speakers with years of experience engaging with Japanese professionals.'}
                 </p>
                 <p>
                   {ja
-                    ? '海外から発信されるオンラインスピーキングなどの講師は、日本の企業文化やビジネス慣習に精通しているとは限りません。一方当校の講師は、自らの経験に基づいた、ビジネスパーソンに必要な実践的で効果的なトレーニングを提供することが可能です。'
-                    : 'Instructors based overseas may not be familiar with Japanese corporate culture or business practices. Our instructors, by contrast, can provide practical and effective training based on their own experience — exactly what business professionals need.'}
+                    ? '海外在住の講師は、日本の企業文化やビジネス慣習を熟知していないことがほとんどです。当校の講師は実体験に基づいて、ビジネスパーソンに本当に必要な実践的で効果的なトレーニングを提供します。'
+                    : 'Instructors based overseas are often unfamiliar with Japanese corporate culture and business practices. Ours draw on firsthand experience to deliver practical, effective training that speaks directly to what business professionals need.'}
                 </p>
               </div>
 
@@ -121,26 +121,26 @@ export default async function WhyUsPage({
                   {
                     title: ja ? '文化的感受性' : 'Cultural Sensitivity',
                     body: ja
-                      ? '私たちのインストラクターは皆、日本に住み、日本で働いた経験があるため、経験豊かな文化的背景をレッスンに無理なく取り入れることができ、より親しみやすく、魅力的な学習体験を育みます。'
-                      : 'All of our instructors have lived and worked in Japan, allowing them to naturally incorporate their rich cultural background into lessons, fostering a more relatable and engaging learning experience.',
+                      ? '全講師が日本での居住・就労経験を持つため、豊かな文化的背景を自然にレッスンへ取り入れることができます。より身近で充実した学習体験を生み出します。'
+                      : 'All our instructors have lived and worked in Japan, naturally weaving cultural insight into every lesson — creating a more relatable and engaging learning experience.',
                   },
                   {
                     title: ja ? '実体験' : 'Real-World Experience',
                     body: ja
-                      ? '当校の講師は日本での実体験をもとに日本人と接する際の個人的なエピソードや仕事上のエピソードを紹介します。このアプローチは理論と現実を結びつけ、仕事や社交の場での英語の実践的な使い方を紹介します。個人的な経験、魅力的な逸話、文化的なニュアンスを共有することで、現実の英語使用に関する総合的な視点を提供します。'
-                      : 'Our instructors draw on their real experiences in Japan to share personal and professional anecdotes about interacting with Japanese people. This approach bridges theory and reality, demonstrating practical English use in professional and social settings.',
+                      ? '講師は日本での実体験をもとに、個人・仕事双方のエピソードを交えながら授業を進めます。理論と実践を結びつけることで、職場や社交の場で即使える英語を身につけます。'
+                      : 'Drawing on firsthand experience in Japan, our instructors share real personal and professional stories that bridge theory and practice — making English immediately useful in the workplace and beyond.',
                   },
                   {
                     title: ja ? 'グローバルな視点' : 'Global Perspective',
                     body: ja
-                      ? '日本に住み、働いた経験のある講師は、独自のグローバルな視点を持っています。日本と他の英語圏の国々での英語の使い方を比較対照し、方言や慣用表現、文化的規範の違いに触れることができます。このような広い視野は、学習経験を豊かにするだけでなく、生徒がグローバル化した世界に対応できるよう準備します。'
-                      : 'Instructors who have lived and worked in Japan bring a unique global perspective. They can compare and contrast how English is used in Japan versus other English-speaking countries, exposing students to different dialects, idiomatic expressions, and cultural norms.',
+                      ? '日本と英語圏の両方を知る講師が、方言・慣用表現・文化的規範の違いをレッスンに取り入れます。広い視野が学習を豊かにし、グローバルな舞台で通用する力を養います。'
+                      : 'With experience in both Japan and English-speaking countries, our instructors compare dialects, idioms, and cultural norms — broadening students\' perspective and preparing them for the global stage.',
                   },
                   {
                     title: ja ? '本物の言語体験' : 'Authentic Language Experience',
                     body: ja
-                      ? '当校の講師は、本物の自然な言語インプットを提供することで、ユニークな学習体験を提供します。英語のニュアンスに精通した講師陣が、ネイティブのような流暢さを無理なく身につけます。本物のアクセント、イントネーション、文化的な言及に触れることで、言語に対する鋭い耳を養い、ネイティブスピーカーとの会話に自信を持つことができます。当校の講師は、英文法、構文、語彙を深く理解しているため上達が早くなります。また、自然で自信に満ちた会話ができるよう、正確な音の再現を指導します。'
-                      : 'Our instructors provide a unique learning experience through authentic, natural language input. With deep familiarity with the nuances of English, students naturally develop native-like fluency. Exposure to authentic accents, intonation, and cultural references builds a keen ear for the language and confidence in conversing with native speakers.',
+                      ? '自然で本物の英語インプットにより、ネイティブに近い流暢さが身につきます。本物のアクセントやイントネーション、文化的な表現に触れることで、リスニング力が鍛えられ、ネイティブスピーカーとの会話に自信が生まれます。'
+                      : 'Authentic, natural language input helps students develop near-native fluency. Exposure to real accents, intonation, and cultural references sharpens listening skills and builds genuine confidence with native speakers.',
                   },
                 ].map(({ title, body }) => (
                   <div key={title} className="border-l-4 border-[#046bd2] pl-5">
@@ -183,8 +183,8 @@ export default async function WhyUsPage({
               </h2>
               <p className="mt-6 text-base leading-relaxed text-slate-600">
                 {ja
-                  ? '私たちは各組織に固有の要件があることを理解しています。私たちはお客様と密接に協力し、お客様の特定の目標や目的に沿ったカスタマイズされたトレーニングプログラムをデザインし、最大の効果と関連性を確保します。 発音、文法、語彙など、日本人学習者が英語を学ぶ際に直面する特有の課題を特定し授業に反映させることに長けています。'
-                  : 'We understand that each organization has unique requirements. We work closely with our clients to design customized training programs aligned with their specific goals and objectives, ensuring maximum effectiveness and relevance. We excel at identifying and addressing the unique challenges Japanese learners face when learning English, such as pronunciation, grammar, and vocabulary.'}
+                  ? '組織ごとに異なるニーズを的確に把握し、目標に沿ったカスタマイズプログラムを設計します。発音・文法・語彙など、日本人学習者特有の課題を深く理解し、授業にしっかり反映させることに長けています。'
+                  : 'Every organization has unique needs. We work closely with clients to design training programs precisely aligned with their goals — and we have a particular strength in identifying and addressing the challenges Japanese learners face with pronunciation, grammar, and vocabulary.'}
               </p>
             </div>
           </div>
@@ -201,8 +201,8 @@ export default async function WhyUsPage({
               </h2>
               <p className="mt-6 text-base leading-relaxed text-slate-600">
                 {ja
-                  ? '他社が1つのテキストや教授法に基づいた標準的なコースを提供しているのに対し私たちは企業や受講生のニーズに合わせてレッスンをカスタマイズできるよう採用しているツールの柔軟性に優れています。当社独自のテキストとコースワークを用意し達成したいことに焦点を当てた業界特有のビジネススキル開発教材と組み合わせることができます。'
-                  : 'While other companies offer standardized courses based on a single textbook or teaching method, we excel in the flexibility of the tools we employ to customize lessons to the needs of each company and student. We have our own proprietary texts and coursework that can be combined with industry-specific business skills development materials focused on what you want to achieve.'}
+                  ? '他社が1つの教科書や教授法に依存した画一的なコースを提供するのに対し、私たちは企業・受講生のニーズに応じて教材とアプローチを柔軟に組み合わせます。独自のテキスト・コースワークに加え、業界特化のビジネススキル教材も組み合わせることで、目標に直結した学習を実現します。'
+                  : 'While many providers rely on a single textbook or fixed curriculum, we tailor every lesson to the company and student. Our proprietary texts and coursework can be paired with industry-specific business skills materials — all focused on what you want to achieve.'}
               </p>
             </div>
             <div className="relative aspect-[4/3] overflow-hidden rounded-2xl bg-slate-100">
@@ -237,8 +237,8 @@ export default async function WhyUsPage({
               </h2>
               <p className="mt-6 text-base leading-relaxed text-slate-600">
                 {ja
-                  ? 'お客様のスケジュールやご希望に合わせて柔軟なトレーニング・オプションをご用意しています。オンサイト、オンライン、ブレンデッド・ラーニングなど、お客様のニーズに合った方法でトレーニングを提供します。また、就業時間中や就業時間外にも、さまざまなオプションをご用意しています。'
-                  : 'We offer flexible training options to suit your schedule and preferences. We provide training in the format that suits you best — on-site, online, or blended learning. We also offer a variety of options both during and outside of working hours.'}
+                  ? '受講スケジュールや希望に合わせて、対面・オンライン・ブレンド型から最適な形式を選べます。就業時間中・時間外を問わず、さまざまな受講オプションをご用意しています。'
+                  : 'Choose the format that works best for your team — on-site, online, or blended learning. We offer sessions both during and outside business hours to fit any schedule.'}
               </p>
             </div>
           </div>
@@ -255,8 +255,8 @@ export default async function WhyUsPage({
               </h2>
               <p className="mt-6 text-base leading-relaxed text-slate-600">
                 {ja
-                  ? 'ランゲージハウスでは、オンラインレッスンも可能です。'
-                  : 'Language House also offers online lessons.'}
+                  ? 'ランゲージハウスのすべてのプログラムはオンラインでもご受講いただけます。場所を選ばず、柔軟に学習を続けられます。'
+                  : 'All Language House programs are available online, giving your team the flexibility to learn from wherever they are.'}
               </p>
 
               <dl className="mt-8 space-y-6">
@@ -264,20 +264,20 @@ export default async function WhyUsPage({
                   {
                     title: ja ? '柔軟性と利便性' : 'Flexibility and Convenience',
                     body: ja
-                      ? '私たちの講師は日本での生活や勤務経験を持っており、独自のグローバルな視点を持っています。日本と他の英語圏の国々での英語の使い方を比較し、対比することができるため、学生は異なる方言、慣用表現、文化的規範に触れることができます。この広範な視点は学習体験を豊かにするだけでなく、グローバル化した世界に備えるための準備にもなります。'
-                      : 'Our instructors have experience living and working in Japan, giving them a unique global perspective. They can compare and contrast how English is used in Japan versus other English-speaking countries, exposing students to different dialects, idiomatic expressions, and cultural norms.',
+                      ? '自宅やオフィスなど、インターネット環境があればどこからでも参加できます。通勤・移動がないぶん、忙しいスケジュールにも無理なく組み込めます。'
+                      : 'Join from your office, home, or anywhere with an internet connection. No commuting means no wasted time — learning fits seamlessly into even the busiest schedule.',
                   },
                   {
-                    title: ja ? '実際のビジネス経験' : 'Real Business Experience',
+                    title: ja ? '対面と変わらない質' : 'Uncompromised Quality',
                     body: ja
-                      ? '私たちの講師は日本での実体験を活かして、日本人との交流に関する個人的および職業的な話を共有します。このアプローチは理論と現実を結びつけ、プロフェッショナルや社会的な場面での英語の実際の使用を示します。個人的な経験、興味深い逸話、文化的なニュアンスを共有することで、リアルな英語の使い方についての幅広い視点を提供します。'
-                      : 'Our instructors leverage their real experiences in Japan to share personal and professional stories about interacting with Japanese people. This approach bridges theory and reality, demonstrating actual English use in professional and social situations.',
+                      ? 'オンライン形式でも、講師の質と指導内容は対面と変わりません。日本でのビジネス経験をもとにした実践的な指導を、画面を通してそのままお届けします。'
+                      : 'Online delivery doesn\'t mean lower quality. Our instructors bring the same real-world expertise and Japan-based experience to every virtual session — practical, relevant, and effective.',
                   },
                   {
-                    title: ja ? 'インタラクティブで魅力的な学習ツール' : 'Interactive and Engaging Learning Tools',
+                    title: ja ? 'インタラクティブな学習ツール' : 'Interactive Learning Tools',
                     body: ja
-                      ? 'ランゲージハウスでは言語が個人が自分の考えやニーズ、願望を表現する手段としての力を持つと信じています。私たちの理念は、クライアントや学生に包括的な言語スキルを提供することにあります。それには、リスニング、スピーキング、リーディング、ライティングが含まれます。私たちは、効果的なコミュニケーションと説得のための言語ツールの戦略的な活用を重視しています。'
-                      : 'At Language House, we believe in the power of language as a means for individuals to express their thoughts, needs, and aspirations. Our philosophy is to provide clients and students with comprehensive language skills, including listening, speaking, reading, and writing. We emphasize the strategic use of language tools for effective communication and persuasion.',
+                      ? '画面共有、デジタルホワイトボード、グループワークなど、オンラインならではのインタラクティブなツールを積極的に活用します。対面授業と変わらない充実した学習体験をオンラインで実現します。'
+                      : 'We make full use of screen sharing, digital whiteboards, and virtual breakout sessions — creating an interactive, engaging learning experience that rivals in-person instruction.',
                   },
                 ].map(({ title, body }) => (
                   <div key={title} className="border-l-4 border-[#046bd2] pl-5">
