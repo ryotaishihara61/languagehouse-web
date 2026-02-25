@@ -113,7 +113,9 @@ export default function Footer({ lang }: FooterProps) {
           {/* Column 3: Contact info */}
           <div>
             <h2 className="mb-4 text-sm font-semibold uppercase tracking-wider text-white">
-              {t.contactHeading}
+              <Link href={localizeHref('/contact-us')} className="hover:text-[#046bd2] transition-colors">
+                {t.contactHeading}
+              </Link>
             </h2>
             <address className="not-italic space-y-3 text-sm text-gray-400">
               <p className="flex items-start gap-2">
